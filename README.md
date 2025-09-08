@@ -15,6 +15,8 @@ A starter template for building a modern, responsive dashboard using **Next.js A
 
 🔗 [View Demo on Vercel](https://nextjs-dashboard-sable-six-67.vercel.app)
 
+Email: user@nextmail.com
+Password: 123456
 ---
 
 ## ✨ Features
